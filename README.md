@@ -21,3 +21,5 @@ Keep in mind this 3D case is not tested because it's about 250 gram and I'm not 
 Configuration is quite ez it will take you about couple of hours 
 
 I hope you like this project 
+ # here is an image of the final result :
+ ![F](https://github.com/user-attachments/assets/54782124-8cf7-4c7c-9ecc-c55881257455)
